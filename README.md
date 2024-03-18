@@ -28,6 +28,6 @@ O projeto consiste em analisar os layouts do “Urban Routes” no figma na aba 
 
 ![image](https://github.com/LucasSaturnino/-Tripleten-Sprint-02/assets/149327395/5374e7ea-c080-45c3-802d-fbdd213728de)
 
-3.	Links para os relatórios de bug no Jira:
+2.	Links para os relatórios de bug no Jira:
    
 https://lwsaturnino.atlassian.net/jira/software/c/projects/LS0302/issues/?filter=allissues 
