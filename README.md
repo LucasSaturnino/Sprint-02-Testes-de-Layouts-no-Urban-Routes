@@ -4,7 +4,7 @@ Aplicar técnicas desenvolvidas no curso de Analista de testes/QA da TripleTen.
 
 **Introdução**
 
-O curso de Analista de testes/QA da TripleTen possui uma plataforma dívida em sprint, aplicando conceitos em simulações de testes, a segunda sprint objetiva a criação de um checklist de teste para o aplicativo web “Urban Routes”, preparo de casos de testes e relatório de bug no Jira.
+A segunda sprint objetiva a criação de um checklist de teste para o aplicativo web “Urban Routes”, preparo de casos de testes e relatório de bug no Jira.
 
 **Resultado**
 
